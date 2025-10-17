@@ -1,0 +1,20 @@
+services:
+  grantbot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: grant_chatbot
+    env_file:
+      - .env                    # must contain MISTRAL_API_KEY=sk-...
+    environment:
+      - MISTRAL_API_KEY=${MISTRAL_API_KEY}   # pass it through explicitly
+      - SEED_URLS=https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en,https://www.eurekanetwork.org/open-calls/smart-cluster-2025/
+      - SCRAPE_SOURCES=seed
+      - CACHE_PATH=/app/data/calls_cache.json
+      - MODEL_NAME=mistral-small-latest
+      - GRADIO_SHARE=false
+    ports:
+      - "7860:7860"
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped

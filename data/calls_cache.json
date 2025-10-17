@@ -1,0 +1,52 @@
+{
+  "8b4876f47c8a53e5": {
+    "id": "8b4876f47c8a53e5",
+    "source": "seed",
+    "title": "EIC Accelerator - European Innovation Council - European Commission",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+    "deadline_date": null,
+    "open_date": null,
+    "awarding_body": null,
+    "funding_rate": null,
+    "award_min": null,
+    "award_max": null,
+    "regions": [
+      "EU"
+    ],
+    "sectors": [],
+    "trl_min": null,
+    "trl_max": null,
+    "requires_consortium": null,
+    "min_partners": null,
+    "ai_relevance": 0.0,
+    "must_haves": [],
+    "summary": "",
+    "raw_excerpt": "Grant only: you will sign the Grant Agreement and receive first pre-financing payment. Blended finance: you can use the additional flexibility of the investment component and negotiate a raise of maximum € 2 million.",
+    "last_seen": "2025-10-17T14:54:33+00:00"
+  },
+  "ba8d91aa75c8d06b": {
+    "id": "ba8d91aa75c8d06b",
+    "source": "manual",
+    "title": "Programmes Archive - Eureka Network",
+    "url": "https://www.eurekanetwork.org/programmes-and-calls/?status=open",
+    "deadline_date": null,
+    "open_date": null,
+    "awarding_body": null,
+    "funding_rate": null,
+    "award_min": null,
+    "award_max": null,
+    "regions": [
+      "SE"
+    ],
+    "sectors": [],
+    "trl_min": null,
+    "trl_max": null,
+    "requires_consortium": null,
+    "min_partners": null,
+    "ai_relevance": 0.0,
+    "must_haves": [],
+    "summary": "",
+    "raw_excerpt": "Deadline: 10 November 2025 Eureka Clusters",
+    "last_seen": "2025-10-17T14:56:12+00:00"
+  }
+}
