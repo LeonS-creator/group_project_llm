@@ -16,5 +16,6 @@ services:
     ports:
       - "7860:7860"
     volumes:
+      - ./funding_website.csv:/app/funding_website.csv
       - ./data:/app/data
     restart: unless-stopped
