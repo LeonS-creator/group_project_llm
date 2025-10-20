@@ -5,10 +5,10 @@ services:
       dockerfile: Dockerfile
     container_name: grant_chatbot
     env_file:
-      - .env                    # must contain MISTRAL_API_KEY=sk-...
+      - .env                   
     environment:
       - MISTRAL_API_KEY=${MISTRAL_API_KEY}   # pass it through explicitly
-      - SEED_URLS=https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en,https://www.eurekanetwork.org/open-calls/smart-cluster-2025/
+      - SEED_URLS=https://atomico.com,https://creandum.com/,https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en,https://28digital.eu/all-startup-opportunities,https://eqtventures.com,https://industrifonden.com,https://northzone.com,https://tillvaxtverket.se,https://www.almi.se/en/venture-capital/pitcha-din-startup/,https://www.eurekanetwork.org/open-calls/eurostars/,https://www.luminarventures.com/pitch,https://www.norrsken.vc,https://www.vinnova.se/en
       - SCRAPE_SOURCES=seed
       - CACHE_PATH=/app/data/calls_cache.json
       - MODEL_NAME=mistral-small-latest

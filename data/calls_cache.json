@@ -1,301 +1,409 @@
 {
-  "1814b91280134064": {
-    "id": "1814b91280134064",
-    "source": "csv",
+  "53bd5cb1f9689fe2": {
+    "id": "53bd5cb1f9689fe2",
+    "source": "vc",
     "title": "Creandum – Pitch Us",
     "url": "https://creandum.com/",
     "deadline_date": null,
     "open_date": null,
     "awarding_body": null,
-    "funding_rate": NaN,
+    "funding_rate": null,
     "award_min": 500000.0,
     "award_max": 5000000.0,
-    "regions": [],
-    "sectors": [],
+    "regions": [
+      "EU",
+      "US",
+      "Nordics"
+    ],
+    "sectors": [
+      "AI",
+      "SaaS",
+      "Consumer"
+    ],
     "trl_min": null,
     "trl_max": null,
-    "requires_consortium": NaN,
+    "requires_consortium": null,
     "min_partners": null,
     "ai_relevance": 0.0,
     "must_haves": [],
     "summary": "Nordic early-stage VC (pre-seed to Series A) with typical tickets €500k–€5M.",
     "raw_excerpt": "",
-    "last_seen": "2025-10-18T14:17:02+00:00"
+    "last_seen": "2025-10-20T15:16:47+00:00"
   },
-  "c41847577dd47762": {
-    "id": "c41847577dd47762",
-    "source": "csv",
+  "60060a8075050716": {
+    "id": "60060a8075050716",
+    "source": "vc",
     "title": "EQT Ventures – hello@eqtventures.com",
     "url": "https://eqtventures.com",
     "deadline_date": null,
     "open_date": null,
     "awarding_body": null,
-    "funding_rate": NaN,
+    "funding_rate": null,
     "award_min": 2000000.0,
     "award_max": 75000000.0,
-    "regions": [],
-    "sectors": [],
+    "regions": [
+      "EU",
+      "US"
+    ],
+    "sectors": [
+      "AI",
+      "Health",
+      "Fintech"
+    ],
     "trl_min": null,
     "trl_max": null,
-    "requires_consortium": NaN,
+    "requires_consortium": null,
     "min_partners": null,
     "ai_relevance": 0.0,
     "must_haves": [],
     "summary": "Multi-stage European VC (Seed to Growth) with investments from €2M up to €75M+.",
     "raw_excerpt": "",
-    "last_seen": "2025-10-18T14:17:02+00:00"
+    "last_seen": "2025-10-20T15:16:47+00:00"
   },
-  "6ff0c0d8c419a057": {
-    "id": "6ff0c0d8c419a057",
-    "source": "csv",
+  "6ca790eff60f4914": {
+    "id": "6ca790eff60f4914",
+    "source": "vc",
     "title": "Northzone – Contact",
     "url": "https://northzone.com",
     "deadline_date": null,
     "open_date": null,
     "awarding_body": null,
-    "funding_rate": NaN,
+    "funding_rate": null,
     "award_min": 1000000.0,
     "award_max": 15000000.0,
-    "regions": [],
-    "sectors": [],
+    "regions": [
+      "EU",
+      "US"
+    ],
+    "sectors": [
+      "Fintech",
+      "Software",
+      "Consumer"
+    ],
     "trl_min": null,
     "trl_max": null,
-    "requires_consortium": NaN,
+    "requires_consortium": null,
     "min_partners": null,
     "ai_relevance": 0.0,
     "must_haves": [],
     "summary": "Pan-European VC firm investing from Seed to Growth; typical check sizes around $1M–$15M.",
     "raw_excerpt": "",
-    "last_seen": "2025-10-18T14:17:02+00:00"
+    "last_seen": "2025-10-20T15:16:47+00:00"
   },
-  "0c6a7aa4fc27513d": {
-    "id": "0c6a7aa4fc27513d",
-    "source": "csv",
+  "a4c1ceb3702d1483": {
+    "id": "a4c1ceb3702d1483",
+    "source": "vc",
     "title": "Atomico – contact@atomico.com",
     "url": "https://atomico.com",
     "deadline_date": null,
     "open_date": null,
     "awarding_body": null,
-    "funding_rate": NaN,
+    "funding_rate": null,
     "award_min": 5000000.0,
     "award_max": 20000000.0,
-    "regions": [],
-    "sectors": [],
+    "regions": [
+      "EU",
+      "US",
+      "Global"
+    ],
+    "sectors": [
+      "Fintech",
+      "DeepTech",
+      "Consumer"
+    ],
     "trl_min": null,
     "trl_max": null,
-    "requires_consortium": NaN,
+    "requires_consortium": null,
     "min_partners": null,
     "ai_relevance": 0.0,
     "must_haves": [],
     "summary": "London-based VC focusing on Series A and beyond, with check sizes typically in the $5M–$20M range.",
     "raw_excerpt": "",
-    "last_seen": "2025-10-18T14:17:02+00:00"
+    "last_seen": "2025-10-20T15:16:47+00:00"
   },
-  "0b152eabc6d28e58": {
-    "id": "0b152eabc6d28e58",
-    "source": "csv",
+  "53c9f3b72f489136": {
+    "id": "53c9f3b72f489136",
+    "source": "vc",
     "title": "Norrsken VC – info@norrsken.vc",
     "url": "https://www.norrsken.vc",
     "deadline_date": null,
     "open_date": null,
     "awarding_body": null,
-    "funding_rate": NaN,
+    "funding_rate": null,
     "award_min": 1000000.0,
     "award_max": 5000000.0,
-    "regions": [],
-    "sectors": [],
+    "regions": [
+      "EU",
+      "Nordics"
+    ],
+    "sectors": [
+      "Impact",
+      "Climate",
+      "Health",
+      "Fintech"
+    ],
     "trl_min": null,
     "trl_max": null,
-    "requires_consortium": NaN,
+    "requires_consortium": null,
     "min_partners": null,
     "ai_relevance": 0.0,
     "must_haves": [],
     "summary": "Impact-focused fund (Seed to Series A) investing €1M–€5M in climate; health; fintech startups.",
     "raw_excerpt": "",
-    "last_seen": "2025-10-18T14:17:02+00:00"
+    "last_seen": "2025-10-20T15:16:47+00:00"
   },
-  "bdeb652a76d73c03": {
-    "id": "bdeb652a76d73c03",
-    "source": "csv",
+  "474079587fd8ec88": {
+    "id": "474079587fd8ec88",
+    "source": "vc",
     "title": "Almi Invest – Pitch your startup",
     "url": "https://www.almi.se/en/venture-capital/pitcha-din-startup/",
     "deadline_date": null,
     "open_date": null,
     "awarding_body": null,
-    "funding_rate": NaN,
+    "funding_rate": null,
     "award_min": 100000.0,
     "award_max": 500000.0,
-    "regions": [],
-    "sectors": [],
+    "regions": [
+      "Sweden"
+    ],
+    "sectors": [
+      "GreenTech",
+      "Software",
+      "SaaS"
+    ],
     "trl_min": null,
     "trl_max": null,
-    "requires_consortium": NaN,
+    "requires_consortium": null,
     "min_partners": null,
     "ai_relevance": 0.0,
     "must_haves": [],
     "summary": "Sweden’s most active seed investor (government-backed); typically invests €100k–€500k in early-stage companies.",
     "raw_excerpt": "",
-    "last_seen": "2025-10-18T14:17:02+00:00"
+    "last_seen": "2025-10-20T15:16:47+00:00"
   },
-  "ee59f31fdb3898c1": {
-    "id": "ee59f31fdb3898c1",
-    "source": "csv",
+  "627ab4f02ddb8822": {
+    "id": "627ab4f02ddb8822",
+    "source": "vc",
     "title": "Industrifonden – info@industrifonden.com",
     "url": "https://industrifonden.com",
     "deadline_date": null,
     "open_date": null,
     "awarding_body": null,
-    "funding_rate": NaN,
+    "funding_rate": null,
     "award_min": 10000000.0,
     "award_max": 50000000.0,
-    "regions": [],
-    "sectors": [],
+    "regions": [
+      "Sweden",
+      "Nordics"
+    ],
+    "sectors": [
+      "LifeSciences",
+      "DeepTech",
+      "B2B",
+      "AI"
+    ],
     "trl_min": null,
     "trl_max": null,
-    "requires_consortium": NaN,
+    "requires_consortium": null,
     "min_partners": null,
     "ai_relevance": 0.0,
     "must_haves": [],
     "summary": "Evergreen venture fund focusing on deep tech and life sciences; initial investments are typically in the 10–50 M SEK range (~€1–4.5M) for Seed to Series A rounds.",
     "raw_excerpt": "",
-    "last_seen": "2025-10-18T14:17:02+00:00"
+    "last_seen": "2025-10-20T15:16:47+00:00"
   },
-  "f5536646e4b842d8": {
-    "id": "f5536646e4b842d8",
-    "source": "csv",
+  "72ec310e42861234": {
+    "id": "72ec310e42861234",
+    "source": "vc",
     "title": "Luminar Ventures – Submit Your Pitch",
     "url": "https://www.luminarventures.com/pitch",
     "deadline_date": null,
     "open_date": null,
     "awarding_body": null,
-    "funding_rate": NaN,
+    "funding_rate": null,
     "award_min": 500000.0,
     "award_max": 2500000.0,
-    "regions": [],
-    "sectors": [],
+    "regions": [
+      "Nordics"
+    ],
+    "sectors": [
+      "Digital",
+      "Tech (all)"
+    ],
     "trl_min": null,
     "trl_max": null,
-    "requires_consortium": NaN,
+    "requires_consortium": null,
     "min_partners": null,
     "ai_relevance": 0.0,
     "must_haves": [],
     "summary": "Seed-stage Nordic VC investing €500k–€2.5M in early-stage technology startups.",
     "raw_excerpt": "",
-    "last_seen": "2025-10-18T14:17:02+00:00"
+    "last_seen": "2025-10-20T15:16:47+00:00"
   },
-  "7b55bd21fac07a9f": {
-    "id": "7b55bd21fac07a9f",
-    "source": "csv",
+  "838aa454da9310f6": {
+    "id": "838aa454da9310f6",
+    "source": "grant",
     "title": "Vinnova – Innovation Grants",
     "url": "https://www.vinnova.se/en",
     "deadline_date": null,
     "open_date": null,
     "awarding_body": null,
-    "funding_rate": NaN,
-    "award_min": NaN,
+    "funding_rate": null,
+    "award_min": null,
     "award_max": 5000000.0,
-    "regions": [],
-    "sectors": [],
+    "regions": [
+      "Sweden"
+    ],
+    "sectors": [
+      "All sectors (innovation)"
+    ],
     "trl_min": null,
     "trl_max": null,
-    "requires_consortium": "No",
+    "requires_consortium": false,
     "min_partners": null,
     "ai_relevance": 0.0,
     "must_haves": [],
     "summary": "Sweden’s innovation agency offering equity-free grants (up to ~SEK 5 million) to support startups’ R&D and innovation projects.",
     "raw_excerpt": "",
-    "last_seen": "2025-10-18T14:17:02+00:00"
+    "last_seen": "2025-10-20T15:16:47+00:00"
   },
-  "4861cfc330103333": {
-    "id": "4861cfc330103333",
-    "source": "csv",
+  "a8414eaceff6b430": {
+    "id": "a8414eaceff6b430",
+    "source": "grant",
     "title": "Tillväxtverket – SME Grants",
     "url": "https://tillvaxtverket.se",
     "deadline_date": null,
     "open_date": null,
     "awarding_body": null,
-    "funding_rate": NaN,
-    "award_min": NaN,
+    "funding_rate": null,
+    "award_min": null,
     "award_max": 2000000.0,
-    "regions": [],
-    "sectors": [],
+    "regions": [
+      "Sweden"
+    ],
+    "sectors": [
+      "Business development",
+      "Export",
+      "Innovation"
+    ],
     "trl_min": null,
     "trl_max": null,
-    "requires_consortium": "No",
+    "requires_consortium": false,
     "min_partners": null,
     "ai_relevance": 0.0,
     "must_haves": [],
     "summary": "Swedish Agency for Economic and Regional Growth offering grants (typically up to ~SEK 2 million) for SME business development; export promotion; innovation.",
     "raw_excerpt": "",
-    "last_seen": "2025-10-18T14:17:02+00:00"
+    "last_seen": "2025-10-20T15:16:47+00:00"
   },
-  "7438cf9150045239": {
-    "id": "7438cf9150045239",
-    "source": "csv",
+  "dea62e037e5841b8": {
+    "id": "dea62e037e5841b8",
+    "source": "grant",
     "title": "EIC Accelerator (Horizon Europe)",
     "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
     "deadline_date": null,
     "open_date": null,
     "awarding_body": null,
-    "funding_rate": NaN,
-    "award_min": NaN,
+    "funding_rate": null,
+    "award_min": null,
     "award_max": 2500000.0,
-    "regions": [],
-    "sectors": [],
+    "regions": [
+      "EU (Horizon Europe)"
+    ],
+    "sectors": [
+      "DeepTech",
+      "All sectors"
+    ],
     "trl_min": null,
     "trl_max": null,
-    "requires_consortium": "No",
+    "requires_consortium": false,
     "min_partners": null,
     "ai_relevance": 0.0,
     "must_haves": [],
     "summary": "EU’s flagship Accelerator program for high-impact startups; offers up to €2.5M grant funding plus equity financing (€0.5–€10M).",
     "raw_excerpt": "",
-    "last_seen": "2025-10-18T14:17:02+00:00"
+    "last_seen": "2025-10-20T15:16:47+00:00"
   },
-  "ac501ccf420af945": {
-    "id": "ac501ccf420af945",
-    "source": "csv",
+  "a46cb446f21bea02": {
+    "id": "a46cb446f21bea02",
+    "source": "grant",
     "title": "Eurostars – Eureka",
     "url": "https://www.eurekanetwork.org/open-calls/eurostars/",
     "deadline_date": null,
     "open_date": null,
     "awarding_body": null,
-    "funding_rate": NaN,
-    "award_min": NaN,
+    "funding_rate": null,
+    "award_min": null,
     "award_max": 500000.0,
-    "regions": [],
-    "sectors": [],
+    "regions": [
+      "EU"
+    ],
+    "sectors": [
+      "AI",
+      "Health",
+      "Energy"
+    ],
     "trl_min": null,
     "trl_max": null,
-    "requires_consortium": "Yes",
+    "requires_consortium": true,
     "min_partners": null,
     "ai_relevance": 0.0,
     "must_haves": [],
     "summary": "Europe-wide collaborative R&D funding program for innovative SMEs; typically provides up to ~€500k grant per project (requires ≥2 country partners).",
     "raw_excerpt": "",
-    "last_seen": "2025-10-18T14:17:02+00:00"
+    "last_seen": "2025-10-20T15:16:47+00:00"
   },
-  "8c650713002f9bcf": {
-    "id": "8c650713002f9bcf",
-    "source": "csv",
+  "86b2445ddfac2d88": {
+    "id": "86b2445ddfac2d88",
+    "source": "grant",
     "title": "EIT Digital Open Calls",
     "url": "https://eitdigital.eu/our-activities/open-calls/",
     "deadline_date": null,
     "open_date": null,
     "awarding_body": null,
-    "funding_rate": NaN,
-    "award_min": NaN,
-    "award_max": NaN,
-    "regions": [],
-    "sectors": [],
+    "funding_rate": null,
+    "award_min": null,
+    "award_max": null,
+    "regions": [
+      "EU"
+    ],
+    "sectors": [
+      "AI",
+      "Industry 4.0"
+    ],
     "trl_min": null,
     "trl_max": null,
-    "requires_consortium": "No",
+    "requires_consortium": false,
     "min_partners": null,
     "ai_relevance": 0.0,
     "must_haves": [],
     "summary": "Periodic open calls (cascade funding) for European startups in digital innovation (e.g. AI, Industry 4.0); funding amount varies by call.",
     "raw_excerpt": "",
-    "last_seen": "2025-10-18T14:17:02+00:00"
+    "last_seen": "2025-10-20T15:16:47+00:00"
+  },
+  "c3cf90d94eb609a1": {
+    "id": "c3cf90d94eb609a1",
+    "source": "seed",
+    "title": "All startup opportunities // 28DIGITAL",
+    "url": "https://28digital.eu/all-startup-opportunities",
+    "deadline_date": null,
+    "open_date": null,
+    "awarding_body": null,
+    "funding_rate": null,
+    "award_min": null,
+    "award_max": null,
+    "regions": [
+      "EU"
+    ],
+    "sectors": [],
+    "trl_min": null,
+    "trl_max": null,
+    "requires_consortium": null,
+    "min_partners": null,
+    "ai_relevance": 0.0,
+    "must_haves": [],
+    "summary": "Access to Finance #fundraisingSupport Join the Access to Finance programme offered by 28DIGITAL to receive unparalleled fundraising support. Our team of venture capital experts help European deep tech companies gain access to the financing …",
+    "raw_excerpt": "Access to Finance #fundraisingSupport Join the Access to Finance programme offered by 28DIGITAL to receive unparalleled fundraising support. Our team of venture capital experts help European deep tech companies gain access to the financing they need to scale their businesses. Raise your Series-A - Series-B round with us! Price: 48 000 EUR + 2% success fee Visit website Access t…",
+    "last_seen": "2025-10-20T15:17:11+00:00"
   }
 }
